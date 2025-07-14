@@ -1,0 +1,22 @@
+{
+  "name": "xkcd-api",
+  "version": "0.1.0",
+  "description": "A simple Node app to get xkcd comics.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cors": "^2.8.5"
+  },
+  "repository": {
+    "url": "https://github.com/yysun/xkcd-api.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "xkcd",
+    "cors"
+  ]
+}
