@@ -8,3 +8,7 @@ GET https://xkcd-api.netlify.app/
 
 ### Netlify API
 GET https://xkcd-api.netlify.app/.netlify/functions/index
+
+
+###
+GET https://test-app-6z6i-pc7guge9t-yiyisuns-projects.vercel.app/api
