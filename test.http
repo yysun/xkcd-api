@@ -1,6 +1,10 @@
-###
+### Local API
 GET http://localhost:3000/api
 
 
-###
+
+### 
+GET https://xkcd-api.netlify.app/
+
+### Netlify API
 GET https://xkcd-api.netlify.app/.netlify/functions/index
